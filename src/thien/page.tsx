@@ -13,7 +13,7 @@ export default function Home() {
           className="rounded-full shadow-lg ring-4 ring-blue-200 dark:ring-blue-500"
         />
         <div className="text-center sm:text-left">
-          <h1 className="text-4xl font-bold mb-2">Đinh Ngoc Thiện .</h1>
+          <h1 className="text-4xl font-bold mb-2">Đinh Ngoc Thiện</h1>
           <p className="text-lg text-gray-600 dark:text-gray-300">
             👨‍💻 Lập trình viên Frontend và Backed . Yêu thích thiết kế hiện đại,
             tối giản và hiệu quả.
