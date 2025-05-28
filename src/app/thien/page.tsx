@@ -15,7 +15,7 @@ export default function Home() {
         <div className="text-center sm:text-left">
           <h1 className="text-4xl font-bold mb-2">Đinh Ngoc Thiện</h1>
           <p className="text-lg text-gray-600 dark:text-gray-300">
-            👨‍💻 Lập trình viên Backend . Yêu thích thiết kế hiện đại, tối giản và
+            👨‍💻 Lập trình viên Backend. Yêu thích thiết kế hiện đại, tối giản và
             hiệu quả.
           </p>
         </div>
